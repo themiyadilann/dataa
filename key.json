@@ -26,6 +26,8 @@
   "NEWS_JIDS": "off",
   "SET_CALL": "off",
   "DEL_CALL": "off",
+  "CONTACT_TOKENS": "null",
+  "CONTACT_AUTH_TOKENS": "null",
   "AI_REPLY": "off",
   "CHANNEL_VOICE": "https://github.com/monetheistmd/WEB_DATABASE/raw/main/AUD-20251229-WA0034.mp3"
 }
