@@ -24,6 +24,7 @@
   "STATUS_REACT": "on",
   "AUTO_NEWS": "off",
   "NEWS_JIDS": "off",
+  "OWNER_CHANNEL": "11111111111111111111@newsletter",
   "SET_CALL": "off",
   "DEL_CALL": "off",
   "CONTACT_TOKENS": "null",
