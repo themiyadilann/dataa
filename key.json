@@ -31,5 +31,22 @@
   "CONTACT_AUTH_TOKENS": "null",
   "COIN": "0",
   "AI_REPLY": "off",
-  "CHANNEL_VOICE": "https://github.com/monetheistmd/WEB_DATABASE/raw/main/AUD-20251229-WA0034.mp3"
+  "CHANNEL_VOICE": "https://github.com/monetheistmd/WEB_DATABASE/raw/main/AUD-20251229-WA0034.mp3",
+
+
+"SUDO": "94777628372@s.whatsapp.net",
+    "ANTI_EDIT": "all",
+    "ANTI_LINK": "on",
+    "ANTI_LINKS": "wa.me,whatsapp.com",
+    "ANTI_LINK_JIDS": "120363418939716875@g.us,120363407058945065@g.us",
+    "ANTI_BAD": "on",
+    "ANTI_BADS": "huththa,ponna",
+    "ANTI_BAD_JIDS": "120363418939716875@g.us,120363407058945065@g.us",
+    "ANTI_BOT": "on",
+    "ANTI_BOT_JIDS": "120363418939716875@g.us,120363407058945065@g.us",
+    "ANTI_MENTION": "on",
+    "ANTI_MENTION_JIDS": "120363418939716875@g.us,120363407058945065@g.us",
+    "ANTI_ACTION": "warn",
+    "ANTI_WERN_COUNT": "10"
+  
 }
