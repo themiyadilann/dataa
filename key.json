@@ -25,8 +25,8 @@
   "AUTO_NEWS": "off",
   "NEWS_JIDS": "off",
   "OWNER_CHANNEL": "11111111111111111111@newsletter",
-  "SET_CALL": "off",
-  "DEL_CALL": "off",
+  "SET_CALL": "94777839446@s.whatsapp.net",
+  "DEL_CALL": "94743381623@s.whatsapp.net",
   "CONTACT_TOKENS": "null",
   "CONTACT_AUTH_TOKENS": "null",
   "COIN": "0",
@@ -34,19 +34,20 @@
   "CHANNEL_VOICE": "https://github.com/monetheistmd/WEB_DATABASE/raw/main/AUD-20251229-WA0034.mp3",
 
 
-"SUDO": "94777628372@s.whatsapp.net",
-    "ANTI_EDIT": "all",
-    "ANTI_LINK": "on",
+"SUDO": "94777839446@s.whatsapp.net",
+    "ANTI_EDIT": "off",
+    "ANTI_LINK": "off",
     "ANTI_LINKS": "wa.me,whatsapp.com",
-    "ANTI_LINK_JIDS": "120363418939716875@g.us,120363407058945065@g.us",
-    "ANTI_BAD": "on",
+    "ANTI_LINK_JIDS": "11111111111111111@g.us",
+    "ANTI_BAD": "off",
     "ANTI_BADS": "huththa,ponna",
-    "ANTI_BAD_JIDS": "120363418939716875@g.us,120363407058945065@g.us",
-    "ANTI_BOT": "on",
-    "ANTI_BOT_JIDS": "120363418939716875@g.us,120363407058945065@g.us",
-    "ANTI_MENTION": "on",
-    "ANTI_MENTION_JIDS": "120363418939716875@g.us,120363407058945065@g.us",
+    "ANTI_BAD_JIDS": "11111111111111111@g.us",
+    "ANTI_BOT": "off",
+    "ANTI_BOT_JIDS": "11111111111111111@g.us",
+    "ANTI_MENTION": "off",
+    "ANTI_MENTION_JIDS": "11111111111111111@g.us",
     "ANTI_ACTION": "wern",
-    "ANTI_WERN_COUNT": "10"
+    "ANTI_WERN_COUNT": "3",
+    "BAND": "11111111111111111@g.us"
   
 }
